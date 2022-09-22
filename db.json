@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Nicolás",
+      "empresa": "ETN America",
+      "email": "nicoaimar.geo@gmail.com",
+      "telefono": "3515634327",
+      "notas": "Salary: U$D 8.000",
+      "id": 1
+    }
+  ]
+}
